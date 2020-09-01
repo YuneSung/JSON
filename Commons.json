@@ -1947,9 +1947,11 @@
   "ach1": "https://developer.github.com/v3/",
   "ach2": "https://pastebin.com/doc_scraping_api",
   "ach3": "https://discordapp.com/api/",
-  "ach4": "https://www.reddit.com/dev/api/",
-  "ach5": "https:// www.instagram.com/developer/",
-  "ach6": "https://console.developers.google.com/?pli=1",
+  "ach4": "https://discordapp.com/api/webhooks",
+  "ach5": "https://discordapp.com/developers",
+  "ach6": "https://www.reddit.com/dev/api/",
+  "ach7": "https:// www.instagram.com/developer/",
+  "ach8": "https://console.developers.google.com/?pli=1",
   "words1": "The",
   "words2": "Of",
   "words3": "And",
@@ -13481,5 +13483,5 @@
   "words.5284": "Torture",
   "words.5285": "Carl",
   "words.5286": "Deleted",
-  "words.5287": "Coat",
-  "words.5288": 
+  "words.5287": "Coat"
+}
